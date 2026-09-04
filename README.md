@@ -8,3 +8,4 @@ Borre lo que estaban duplicados desde GitHub
 Cambio realizado desde OtraPC
 Esta linea fue creada en la rama mejora-readme
 ESTA LINEA ES UN ERROR Y LA VAMOS A REVERTIR
+ESTA LINEA ES UN ERROR Y LA VAMOS A REVERTIR
