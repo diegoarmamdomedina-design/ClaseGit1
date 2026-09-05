@@ -1,0 +1,14 @@
+name: Mi primer GitHub Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar saludo
+        run: echo "Hola desde GitHub Actions"
